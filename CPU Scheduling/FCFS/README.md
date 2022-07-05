@@ -18,4 +18,4 @@ FCFS is a non-preemptive scheduling algorithm as a process holds the CPU until i
 - Average waiting time is high and the turnaround time is unpredictable which leads to poor performance.
 
 
-[Code](https://onlinegdb.com/7I16gwzmo)
+[**Run Code**](https://onlinegdb.com/7I16gwzmo)

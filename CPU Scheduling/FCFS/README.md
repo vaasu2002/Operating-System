@@ -19,4 +19,5 @@ FCFS is a non-preemptive scheduling algorithm as a process holds the CPU until i
 
 
 [**Run Code**](https://onlinegdb.com/7I16gwzmo)
-[**NOTES**](https://www.evernote.com/shard/s492/sh/9a396f0f-8b19-b6c2-fd4d-565a0d769ff1/6699ce067b81f6927e1754b9e1e9b073)
+
+[**Notes**](https://www.evernote.com/shard/s492/sh/9a396f0f-8b19-b6c2-fd4d-565a0d769ff1/6699ce067b81f6927e1754b9e1e9b073)

@@ -22,7 +22,6 @@ Process_Name = ["P"+str(i+1) for i in range(n)]
 BT = [int(input(f"Enter Burst Time(ms) for process {x+1}:- ")) for x in range(n)]
 AT=[0 for i in range(n)]
 d,BT = MakeDIctionary_SJF(AT,BT,n,Process_Name)
-print(d)
 TAT,ATAT = TurnAroundTime(BT,n,AT)
 WT,AWT = WaitingTime(TAT,BT,n)
 Process_Name = [i[0] for i in d]
